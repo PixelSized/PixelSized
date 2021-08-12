@@ -3,23 +3,25 @@
 
 <hr>
 
-```
+```lua
 function PixelSized ()  
 :: Just Another Day ::
   if isAwake = true then
     Work_On('GTA Radio')
     
-      While isLookingForWork = true then
-        Browse([
-        Discord = "PixelSized#8008",
-        Google = "PixelSized",
-        Emails = "pixelsized@gmail.com"])
-     end
+    Make_Money(Paypal.me/JenkScalia)
+    
+    While isLookingForWork = true then
+      Browse([
+      Discord = "PixelSized#8008",
+      Google = "PixelSized",
+      Emails = "pixelsized@gmail.com"])
+    end
      
-     if isTired = true then
-        isLookingForWork = false
-        isAwake = false
-     end
+    if isTired = true then
+       isLookingForWork = false
+       isAwake = false
+    end
   else
     Sleep(6hr)
     goto Just Another Day
