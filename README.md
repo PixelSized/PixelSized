@@ -1,6 +1,32 @@
 <h1 align="center">Hello World 👋, I'm PixelSized</h1>
 <h3 align="center">A wannabe millionare</h3>
 
+<hr>
+
+```
+function PixelSized ()  
+:: Just Another Day ::
+  if isAwake = true then
+    Work_On('GTA Radio')
+    
+      While isLookingForWork = true then
+        Browse([
+        Discord = "PixelSized#8008",
+        Google = "PixelSized",
+        Emails = "pixelsized@gmail.com"])
+     end
+     
+     if isTired = true then
+        isLookingForWork = false
+        isAwake = false
+     end
+  else
+    Sleep(6hr)
+    goto Just Another Day
+  end
+return PixelSized
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=computurtle&label=Profile%20views&color=0e75b6&style=flat" alt="computurtle" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pixel_sized" target="blank"><img src="https://img.shields.io/twitter/follow/pixel_sized?logo=twitter&style=for-the-badge" alt="pixel_sized" /></a> </p>
