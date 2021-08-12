@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=computurtle&label=Profile%20views&color=0e75b6&style=flat" alt="computurtle" /> </p>
 
-<p align="left"> <a href="https://twitter.com/computurtle_" target="blank"><img src="https://img.shields.io/twitter/follow/pixel_sized?logo=twitter&style=for-the-badge" alt="pixel_sized" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pixel_sized" target="blank"><img src="https://img.shields.io/twitter/follow/pixel_sized?logo=twitter&style=for-the-badge" alt="pixel_sized" /></a> </p>
 
 - 🔭 I’m currently working on **Probably 20-30 different projects 🤣**
 
